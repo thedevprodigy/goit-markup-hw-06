@@ -500,6 +500,7 @@ ul {
   color: var(--white);
   display: flex;
   margin-bottom: 16px;
+  font-weight: 500;
 }
 
 .footer-socials-item {
